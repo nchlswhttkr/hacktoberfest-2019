@@ -1,0 +1,22 @@
+baseURL = "https://nchlswhttkr.github.io/hacktoberfest-2019/"
+languageCode = "en-us"
+title = "Hacktoberfest"
+theme = "minimal-bootstrap-hugo-theme"
+enableEmoji = "true"
+
+[params]
+    customDateFormat = " "
+
+[menu]
+    [[menu.nav]]
+    name = "Participants"
+    url = "/"
+    weight = 1
+    [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+    [[menu.nav]]
+    name = "Contribute!"
+    url = "/contribute/"
+    weight = 2
