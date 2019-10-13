@@ -15,4 +15,4 @@ jobs:
       - uses: docker://registry.gitlab.com/pages/hugo:latest
       - uses: ./.github/deploy-action
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

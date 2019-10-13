@@ -8,4 +8,4 @@ git init
 git checkout -b gh-pages
 git add .
 git commit -m "Deploy"
-git push --force https://nchlswhttkr:$GITHUB_TOKEN@github.com/nchlswhttkr/hacktoberfest-2019 gh-pages
+git push --force https://nchlswhttkr:$PERSONAL_ACCESS_TOKEN@github.com/nchlswhttkr/hacktoberfest-2019.git gh-pages
