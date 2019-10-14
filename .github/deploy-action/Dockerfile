@@ -1,6 +1,4 @@
-FROM ubuntu:latest
-
-RUN apt update -qqy && apt install -qqy git
+FROM nchlswhttkr/git:latest
 
 ADD entrypoint.sh /
 RUN chmod +x /entrypoint.sh
