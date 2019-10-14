@@ -10,6 +10,8 @@ If you're looking to get started with making your own pull request and to add yo
 
 You can find the official Hacktoberfest site at https://hacktoberfest.digitalocean.com, sign in to view your Hacktoberfest progress!
 
+You can also find a copy of the presenter slides in the [event repo](https://github.com/nchlswhttkr/hacktoberfest-2019/tree/master/presentation.pdf)!
+
 <br/>
 
 ### Need help with Git/GitHub?
