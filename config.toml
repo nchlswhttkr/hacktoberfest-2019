@@ -3,9 +3,12 @@ languageCode = "en-us"
 title = "Hacktoberfest"
 theme = "minimal-bootstrap-hugo-theme"
 enableEmoji = "true"
+pygmentsCodeFences = "true"
 
 [params]
     customDateFormat = " "
+    wrapperMaxWidth = "700px"
+    includeBootstrapJs = "false"
 
 [menu]
     [[menu.nav]]
