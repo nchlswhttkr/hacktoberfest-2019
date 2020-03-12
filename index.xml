@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacktoberfest</title>
+    <link>https://nchlswhttkr.github.io/hacktoberfest-2019/</link>
+    <description>Recent content on Hacktoberfest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://nchlswhttkr.github.io/hacktoberfest-2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bertie Spencer</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/bertie-spencer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/bertie-spencer/</guid>
+      <description>Hi, I&amp;rsquo;m Bertie! I&amp;rsquo;m a first year Computer Science student who knows nothing.
+I like to program in Java and Python.
+You can find me on GitHub at https://github.com/Nicholas-B-Spencer</description>
+    </item>
+    
+    <item>
+      <title>Eric Jiang</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/eric-jiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/eric-jiang/</guid>
+      <description>Hi, I&amp;rsquo;m Eric! I&amp;rsquo;m a final year Information Technology student here at Monash!
+My favourite language is Javascript, and from 2020 I&amp;rsquo;ll be working at Google as a Test Engineer!
+You can find me on GitHub at https://github.com/ericjiang97</description>
+    </item>
+    
+    <item>
+      <title>Getting started with a pull request</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/contribute/</guid>
+      <description>Ready to add yourself to the list of participants? To add our profile to https://nchlswhttkr.github.io/hacktoberfest-2019, we&amp;rsquo;ll be making our pull request (abbreviated PR).
+Before you begin, you will need a GitHub account and to have Git installed on your computer.
+This tutorial will use the Git CLI, but you&amp;rsquo;re welcome to use a Git GUI client or to use GitHub directly. We&amp;rsquo;ll only be creating a single file with our PR.</description>
+    </item>
+    
+    <item>
+      <title>Hacktoberfest 2019</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/about/</guid>
+      <description>Welcome to Hacktoberfest with MonSec and WIRED!
+If you&amp;rsquo;re looking to get started with making your own pull request and to add yourself to the participants list, you can head straight to the Getting started with a pull request page!
+You can find the official Hacktoberfest site at https://hacktoberfest.digitalocean.com, sign in to view your Hacktoberfest progress!
+You can also find a copy of the presenter slides in the event repo!</description>
+    </item>
+    
+    <item>
+      <title>Lucas Phang</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/lucas-phang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/lucas-phang/</guid>
+      <description>Hi, I&amp;rsquo;m Lucas! I&amp;rsquo;m a final year Computer Science student here at Monash!
+I dabble a bit with AI, Games Programming and Blockchain!
+You can find me on GitHub at https://github.com/lucasPDY</description>
+    </item>
+    
+    <item>
+      <title>Marcus</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/glasses-are-90-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/glasses-are-90-me/</guid>
+      <description>Hello my name is marcus I am a first year CS student. Pulling right now
+Thank you, Marcus</description>
+    </item>
+    
+    <item>
+      <title>Mariusz</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/mariusz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/mariusz/</guid>
+      <description>I&amp;rsquo;m the President of MonSec! https://monsec.io</description>
+    </item>
+    
+    <item>
+      <title>Nicholas Whittaker</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nchlswhttkr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nchlswhttkr/</guid>
+      <description>My name is Nicholas!
+I&amp;rsquo;m studying a Bachelor of Computer Science, and I&amp;rsquo;m in my final year!
+You can find out more about on my personal website or on my GitHub profile!</description>
+    </item>
+    
+    <item>
+      <title>Nikhil Paliath</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nikhil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/nikhil/</guid>
+      <description>Hi, I&amp;rsquo;m Nikhil! I&amp;rsquo;m a final year IT student here at Monash!
+My favourite language is Java (Android), but I like to write Python as well!
+You can find me on GitHub at https://github.com/nvinai</description>
+    </item>
+    
+    <item>
+      <title>Pooja Sinha</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/pooja-sinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/pooja-sinha/</guid>
+      <description>Hi, I&amp;rsquo;m Pooja! I&amp;rsquo;m a final semester Master of Information Technology student here at Monash!
+My favourite language is Java, but I like to write Python, Android and JavaScript as well!
+You can find me on GitHub at https://github.com/psin007</description>
+    </item>
+    
+    <item>
+      <title>Salang</title>
+      <link>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/salang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nchlswhttkr.github.io/hacktoberfest-2019/participants/salang/</guid>
+      <description>Hi, I&amp;rsquo;m Salang! I&amp;rsquo;m a first year Computer Science student here at Monash!
+My favourite language is Python, but I like to write C, and Java as well!
+You can find me on GitHub at https://github.com/SalangKang</description>
+    </item>
+    
+  </channel>
+</rss>
