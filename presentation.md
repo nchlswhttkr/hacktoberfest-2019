@@ -1,4 +1,5 @@
 theme: Simple, 2
+footer: _"Hacktoberfest 2019"_ - nicholas.cloud/goto/hacktoberfest-2019
 
 ![](./static/cover.png)
 
